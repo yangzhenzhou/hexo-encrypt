@@ -1,4 +1,4 @@
-# hexo-generator-feed
+# hexo-encrypt
 
 Encrypt your private blog for hexo 
 
