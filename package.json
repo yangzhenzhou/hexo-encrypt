@@ -1,5 +1,17 @@
-{  
-	"name": "hexo-my-plugin",  
-	"version": "0.0.1",  
-	"main": "index"  
-} 
+{
+  "name": "hexo-encrypt",
+  "version": "0.0.1",
+  "description": "encryt your private blog for Hexo generator plugins.",
+  "main": "lib/encrypt",
+  "repository": "yangzhenzhou/hexo-encrypt",
+  "homepage": "http://yangzhenzhou.github.io/",
+  "keywords": [
+    "hexo",
+    "encrypt"
+  ],
+  "author": "yangzhenzhou <yangzhenzhou02@gmail.com> (http://yangzhenzhou.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.6"
+  }
+}
